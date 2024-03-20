@@ -1,0 +1,11 @@
+﻿  expevaluator.cpp
+  interpreter.cpp
+  lexanalyzer.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Lucy\Desktop\PySub_Interpreter_Code\src\lexanalyzer.cpp(43): warning C4715: 'LexicalAnalyzer::isIdentifier': not all control paths return a value
+C:\Users\Lucy\Desktop\PySub_Interpreter_Code\src\interpreter.cpp(56): warning C4715: 'Interpreter::containsComment': not all control paths return a value
+C:\Users\Lucy\Desktop\PySub_Interpreter_Code\src\interpreter.cpp(418): warning C4715: 'Interpreter::trueCondition': not all control paths return a value
+cl : command line  warning D9014: invalid value '2220' for '/wd'; assuming '5999'
+  interface.cpp
+  PySub_Program4and5.vcxproj -> C:\Users\Lucy\Desktop\PySub_Interpreter_Code\src\x64\Debug\PySub_Program4and5.exe
