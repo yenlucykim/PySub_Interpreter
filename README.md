@@ -12,10 +12,6 @@ C++ command-line tool for parsing and executing Python scripts
 
 # Final Product Demo
 
-https://github.com/yenlucykim/PySub_Interpreter/assets/148504289/dd7cf10f-181c-4e6f-9184-59f0e341013b
-
-
-
 
 https://github.com/yenlucykim/PySub_Interpreter/assets/148504289/9124810a-539d-4023-84e4-f08dcf3fb02f
 
