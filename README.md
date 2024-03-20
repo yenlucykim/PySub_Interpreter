@@ -1,5 +1,5 @@
 # PySub_Interpreter
-C++ command-line tool for parsing and execcuting Python scripts
+C++ command-line tool for parsing and executing Python scripts
 
 ## What I learned 
 
